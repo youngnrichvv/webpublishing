@@ -36,6 +36,7 @@ header li:hover{color:#ffe6af;}
 
 @media only screen and (max-width:890px){
      #price-option{position:absolute; width:130px; margin-top:20px;}
+     #new{width:380px;}
      }
 
 @media only screen and (min-width:890px)and (max-width:1600px){
