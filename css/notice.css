@@ -25,13 +25,16 @@ header li:hover{color:#ffe6af;}
 .day{float:right;}
 .sel{padding-top:30px; text-align: center;}
 
+.jm{width:200px;}
 
 @media only screen and (max-width:890px){
-
+#box{width:300px; position:absolute; right:20px;}
+.content{font-size:17px; width:600px;}
+.content div{padding:5px;padding-top:25px; padding-bottom:25px;}
 }
 
 @media only screen and (min-width:890px)and (max-width:1600px){
-     #box{width:900px;top:15%;}
+     #box{width:900px;top:20%;}
      .content{width:900px;}
    
      }
